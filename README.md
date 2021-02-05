@@ -1,2 +1,2 @@
-"# git-tutorial" 
-changed files
+"# GitTutorial" 
+Practice project to test out various git commands on repositories and branches
